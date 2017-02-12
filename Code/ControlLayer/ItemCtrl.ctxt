@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ItemCtrl()
+comment0.text=\r\n\ \ Constructor\ of\ class\ TradeCtrl\r\n
+comment1.params=barcode
+comment1.target=ModelLayer.Item\ getItem(java.lang.String)
+comment2.params=
+comment2.target=void\ storeItemInFile()
+comment3.params=barcode
+comment3.target=void\ removeItem(java.lang.String)
+comment4.params=barcode
+comment4.target=java.lang.String\ getItemName(java.lang.String)
+comment5.params=barcode
+comment5.target=double\ getItemPrice(java.lang.String)
+comment6.params=barcode
+comment6.target=int\ getItemQuantity(java.lang.String)
+comment7.params=barcode
+comment7.target=java.lang.String\ getItemCategory(java.lang.String)
+comment8.params=
+comment8.target=ModelLayer.ItemContainer\ getItems()
+comment9.params=items
+comment9.target=void\ setItems(ModelLayer.ItemContainer)
+numComments=10

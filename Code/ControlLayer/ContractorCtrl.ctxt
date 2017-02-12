@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ContractorCtrl()
+comment0.text=\r\n\ Constructor\ of\ clas\ ContractorCtrl\r\n
+comment1.params=name\ address\ phone\ email\ id\ contractors
+comment1.target=void\ createContractor(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.ArrayList)
+comment1.text=\r\n\ \ Creates\ a\ new\ contractor\ and\ add\ it\ to\ a\ file\r\n
+comment2.params=id
+comment2.target=ModelLayer.Contractor\ findContractor(java.lang.String)
+comment2.text=\r\n\ Return\ a\ Contractor\ object\ if\ it\ was\ found\ in\ the\ collection\ null\ otherwise\r\n
+comment3.params=
+comment3.target=java.lang.String\ getFileName()
+comment3.text=\ @return\ the\ filename\ where\ the\ contractors\ are\ saved\r\n
+numComments=4

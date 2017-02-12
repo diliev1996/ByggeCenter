@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=serialNumber\ status
+comment0.target=Copy(java.lang.String,\ boolean)
+comment1.params=
+comment1.target=java.lang.String\ getSerialNumber()
+comment2.params=serialNumber
+comment2.target=void\ setSerialNumber(java.lang.String)
+comment3.params=
+comment3.target=boolean\ getStatus()
+comment4.params=status
+comment4.target=void\ setStatus(boolean)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

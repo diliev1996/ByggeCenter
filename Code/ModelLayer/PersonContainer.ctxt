@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PersonContainer()
+comment0.text=\ Constructor\ of\ class\ PersonContainer\r\n
+comment1.params=file
+comment1.target=java.util.ArrayList\ getPeople(java.lang.String)
+comment1.text=\ Returns\ an\ ArrayList\ from\ the\ desired\ file\r\n
+numComments=2

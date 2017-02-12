@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ProductUI()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ProductUI\r\n
+comment1.params=
+comment1.target=void\ ProductMenu()
+comment1.text=\r\n\ Main\ menu\ of\ this\ class\ starting\ a\ menu\ with\ different\ options\r\n
+comment2.params=
+comment2.target=double\ writeProductMenu()
+comment2.text=\r\n\ Writing\ the\ main\ menu\ for\ the\ products\ \r\n\ @return\ the\ input\ from\ the\ user\r\n
+comment3.params=
+comment3.target=void\ createItem()
+comment3.text=\r\n\ Method\ to\ create\ a\ new\ product\r\n
+comment4.params=
+comment4.target=java.lang.String\ findItem()
+comment4.text=\r\n\ \ Finding\ an\ item\ in\ by\ barcode\r\n
+comment5.params=id
+comment5.target=void\ startUpdateMenu(java.lang.String)
+comment5.text=\ Starts\ an\ update\ menu\ over\ a\ desired\ employee\ found\ by\ id\r\n
+comment6.params=
+comment6.target=double\ printUpdateMenu()
+comment6.text=\r\n\ Prints\ the\ update\ menu\ with\ override\ call\ to\ the\ superClass\r\n\ returns\ the\ choice\ from\ the\ keyboard\r\n
+numComments=7

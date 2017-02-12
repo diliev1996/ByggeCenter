@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MainMenu()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ PersonMenu\r\n
+comment1.params=
+comment1.target=void\ logout()
+comment1.text=\r\n\ Message\ telling\ the\ user\ that\ he\ is\ no\ longer\ using\ the\ program\r\n
+comment2.params=
+comment2.target=int\ login()
+comment2.text=\r\n\ Method\ used\ to\ authorize\ the\ login\ of\ a\ person\ \r\n\ Depending\ on\ their\ position\ the\ people\ are\ redirected\ to\ different\ menus\r\n
+comment3.params=name\ id
+comment3.target=int\ findWorker(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Checks\ wheter\ the\ employee\ is\ with\ position\ Manager\ or\ not\r\n\ @return\ 1\ if\ manager\ 2\ if\ anything\ else\r\n
+comment4.params=
+comment4.target=double\ startMainMenu()
+comment4.text=\ The\ start\ menu\ of\ the\ program\ It\ checks\ if\ there\ are\ any\ employes\ registered\ and\ if\ not\ it\ opens\ a\ registration\ menu\ \r\n
+comment5.params=
+comment5.target=double\ writeStartMenu()
+comment5.text=\r\n\ Writing\ the\ start\ menu\ \r\n\ @return\ the\ input\ of\ the\ user\r\n
+comment6.params=
+comment6.target=void\ writeFirstMenu()
+comment6.text=\r\n\ Writing\ this\ instructions\ if\ there\ are\ no\ employees\ registered\r\n
+numComments=7

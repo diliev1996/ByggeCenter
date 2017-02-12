@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=OrderUI()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ OrderUI\r\n
+comment1.params=
+comment1.target=java.lang.String\ findOrder()
+comment2.params=
+comment2.target=void\ RegisterOrder()
+comment2.text=\r\n\ Registration\ of\ a\ customer\ order\r\n
+comment3.params=
+comment3.target=void\ StartOrderMenu()
+comment4.params=
+comment4.target=void\ activateOrder()
+comment5.params=
+comment5.target=int\ writeOrderMenu()
+numComments=6

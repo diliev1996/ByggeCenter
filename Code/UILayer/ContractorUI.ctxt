@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ContractorUI()
+comment0.text=\ Consturctor\ for\ objects\ of\ this\ class\r\n
+comment1.params=
+comment1.target=void\ createContractor()
+comment1.text=\r\n\ \ Creates\ a\ new\ contractor\ using\ methods\ from\ the\ super\ class\r\n
+comment2.params=
+comment2.target=java.lang.String\ getFileName()
+comment2.text=\r\n\ @return\ the\ filename\ of\ the\ file\ where\ contractors\ are\ saved\ \r\n
+comment3.params=
+comment3.target=void\ startContractorMenu()
+comment3.text=\r\n\ Start\ the\ main\ menu\ of\ this\ class\r\n
+comment4.params=
+comment4.target=double\ printContractorMenu()
+comment4.text=\r\n\ Prints\ the\ main\ menu\ to\ the\ console\r\n\ @returns\ the\ choice\ from\ the\ keyboard\r\n
+comment5.params=id
+comment5.target=void\ startUpdateMenu(java.lang.String)
+comment5.text=\r\n\ Starts\ an\ update\ menu\ for\ a\ contractor\ found\ by\ his\ id\r\n
+comment6.params=
+comment6.target=double\ printUpdateMenu()
+comment6.text=\r\n\ Prints\ the\ update\ menu\ for\ a\ found\ contracotr\r\n\ @return\ the\ choice\ from\ the\ keyboard\r\n
+comment7.params=
+comment7.target=void\ startFoundContractorMenu()
+comment7.text=\r\n\ Prints\ the\ menu\ when\ a\ contractor\ has\ been\ found\r\n
+numComments=8

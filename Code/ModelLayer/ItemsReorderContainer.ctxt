@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ItemsReorderContainer\ getInstance()
+comment0.text=\r\n\ Make\ one\ instance\ of\ the\ class\ for\ the\ first\ time\ this\ method\ is\ invoked\ and\ after\ that\r\n\ only\ this\ instance\ is\ used.\r\n\ @return\ instance\ is\ the\ instance\ of\ the\ class\ ItemsReorderContainer\r\n
+comment1.params=
+comment1.target=ItemsReorderContainer()
+comment2.params=
+comment2.target=void\ getProductForReorder()
+comment2.text=\r\n\ load\ all\ instances\ of\ Product\ class\ form\ \ a\ file\r\n
+comment3.params=
+comment3.target=java.util.Queue\ getProductReorder()
+comment3.text=\r\n\ @return\ products\ is\ the\ collection\ storing\ all\ instances\ of\ the\ class\ Product\r\n
+numComments=4

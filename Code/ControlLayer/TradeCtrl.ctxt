@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TradeCtrl()
+comment0.text=\r\n\ \ Constructor\ of\ class\ TradeCtrl\r\n
+comment1.params=
+comment1.target=ModelLayer.TradeContainer\ getTradeCont()
+comment1.text=\r\n\ @return\ tradeCont\ is\ the\ container\ which\ store\ all\ trades\ instance.\r\n
+comment2.params=tradeCont
+comment2.target=void\ setTradeCont(ModelLayer.TradeContainer)
+comment3.params=id
+comment3.target=void\ removeTrade(java.lang.String)
+comment4.params=id
+comment4.target=double\ getTradePrice(java.lang.String)
+comment5.params=id
+comment5.target=ModelLayer.Trade\ findTrade(java.lang.String)
+comment6.params=id
+comment6.target=java.lang.String\ getTradeCustID(java.lang.String)
+comment7.params=id
+comment7.target=java.lang.String\ getTradeEmplID(java.lang.String)
+comment8.params=filename\ collection
+comment8.target=void\ storeTradeInFile(java.lang.String,\ java.util.ArrayList)
+comment8.text=\r\n\ Store\ a\ given\ collection\ to\ a\ file\r\n\ @param\ fileName\ is\ the\ name\ of\ the\ file\r\n\ @param\ collection\ is\ the\ collection\ which\ we\ want\ to\ store\ to\ a\ file\r\n
+numComments=9
